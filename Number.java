@@ -7,6 +7,7 @@ public class Number
   {
     Scanner sc=new Scanner(System.in);
     int n,reverse=0;
+    System.out.println("Enter integer numbers");
     int a=sc.nextInt();
     n=a;
     while(a>0)
